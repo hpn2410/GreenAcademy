@@ -17,7 +17,6 @@ namespace GreenAcademyProject
                 Charactor charactor = new Charactor(range);
                 charList.Add(charactor);
             }
-
             CheckCharactorType(charList);
         }
 
@@ -27,18 +26,21 @@ namespace GreenAcademyProject
             {
                 if (checkList.AttackRange < 10)
                 {
-                    checkList.Type = "You are a Warrior!";
-                    Console.WriteLine(checkList.Type);
+                    checkList.Type = "You are a Warrior";
+                    Console.WriteLine("{0}, Health: {1}, Defense: {2}, Damage: {3}, AttackRange: {4}"
+                        , checkList.Type, checkList.Health, checkList.Defense, checkList.Damage, checkList.AttackRange);
                 }
                 else if (checkList.AttackRange > 10 && checkList.AttackRange < 20)
                 {
-                    checkList.Type = "You are a Mage!";
-                    Console.WriteLine(checkList.Type);
+                    checkList.Type = "You are a Mage";
+                    Console.WriteLine("{0}, Health: {1}, Defense: {2}, Damage: {3}, AttackRange: {4}"
+                        , checkList.Type, checkList.Health, checkList.Defense, checkList.Damage, checkList.AttackRange);
                 }
                 else
                 {
-                    checkList.Type = "You are a Scout!";
-                    Console.WriteLine(checkList.Type);
+                    checkList.Type = "You are a Scout";
+                    Console.WriteLine("{0}, Health: {1}, Defense: {2}, Damage: {3}, AttackRange: {4}"
+                        , checkList.Type, checkList.Health, checkList.Defense, checkList.Damage, checkList.AttackRange);
                 }
             }
         }

@@ -5,3 +5,10 @@ C:\Users\MAY01\source\repos\GreenAcademyProject\GreenAcademyProject\obj\Debug\Gr
 C:\Users\MAY01\source\repos\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.csproj.CoreCompileInputs.cache
 C:\Users\MAY01\source\repos\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.exe
 C:\Users\MAY01\source\repos\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.pdb
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\bin\Debug\GreenAcademyProject.exe.config
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\bin\Debug\GreenAcademyProject.exe
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\bin\Debug\GreenAcademyProject.pdb
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.csproj.AssemblyReference.cache
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.csproj.CoreCompileInputs.cache
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.exe
+C:\Users\MAY01\Downloads\GreenAcademy\GreenAcademyProject\GreenAcademyProject\obj\Debug\GreenAcademyProject.pdb

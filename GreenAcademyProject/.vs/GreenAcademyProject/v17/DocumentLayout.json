@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MAY01\\source\\repos\\GreenAcademyProject\\",
+  "WorkspaceRootPath": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84C77E27-25A5-4E28-A518-F0DCB5031D05}|GreenAcademyProject\\GreenAcademyProject.csproj|c:\\users\\may01\\source\\repos\\greenacademyproject\\greenacademyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C77E27-25A5-4E28-A518-F0DCB5031D05}|GreenAcademyProject\\GreenAcademyProject.csproj|c:\\users\\may01\\downloads\\greenacademy\\greenacademyproject\\greenacademyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C77E27-25A5-4E28-A518-F0DCB5031D05}|GreenAcademyProject\\GreenAcademyProject.csproj|solutionrelative:greenacademyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MAY01\\source\\repos\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
               "RelativeDocumentMoniker": "GreenAcademyProject\\Program.cs",
-              "ToolTip": "C:\\Users\\MAY01\\source\\repos\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
               "RelativeToolTip": "GreenAcademyProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T12:34:42.153Z",
               "EditorCaption": ""
