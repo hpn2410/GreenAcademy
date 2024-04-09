@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84C77E27-25A5-4E28-A518-F0DCB5031D05}|GreenAcademyProject\\GreenAcademyProject.csproj|c:\\users\\may01\\downloads\\greenacademy\\greenacademyproject\\greenacademyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C77E27-25A5-4E28-A518-F0DCB5031D05}|GreenAcademyProject\\GreenAcademyProject.csproj|solutionrelative:greenacademyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51CE5A1A-E4C3-44E1-87F8-B85FBD8B2F60}|File_In_C_Sharp\\File_In_C_Sharp.csproj|c:\\users\\may01\\downloads\\greenacademy\\greenacademyproject\\file_in_c_sharp\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51CE5A1A-E4C3-44E1-87F8-B85FBD8B2F60}|File_In_C_Sharp\\File_In_C_Sharp.csproj|solutionrelative:file_in_c_sharp\\test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE5A1A-E4C3-44E1-87F8-B85FBD8B2F60}|File_In_C_Sharp\\File_In_C_Sharp.csproj|c:\\users\\may01\\downloads\\greenacademy\\greenacademyproject\\file_in_c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE5A1A-E4C3-44E1-87F8-B85FBD8B2F60}|File_In_C_Sharp\\File_In_C_Sharp.csproj|solutionrelative:file_in_c_sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test.json",
+              "DocumentMoniker": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\File_In_C_Sharp\\Test.json",
+              "RelativeDocumentMoniker": "File_In_C_Sharp\\Test.json",
+              "ToolTip": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\File_In_C_Sharp\\Test.json",
+              "RelativeToolTip": "File_In_C_Sharp\\Test.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T13:37:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
-              "RelativeDocumentMoniker": "GreenAcademyProject\\Program.cs",
-              "ToolTip": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\GreenAcademyProject\\Program.cs",
-              "RelativeToolTip": "GreenAcademyProject\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABsAAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\File_In_C_Sharp\\Program.cs",
+              "RelativeDocumentMoniker": "File_In_C_Sharp\\Program.cs",
+              "ToolTip": "C:\\Users\\MAY01\\Downloads\\GreenAcademy\\GreenAcademyProject\\File_In_C_Sharp\\Program.cs",
+              "RelativeToolTip": "File_In_C_Sharp\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:34:42.153Z",
+              "WhenOpened": "2024-04-09T12:37:33.085Z",
               "EditorCaption": ""
             }
           ]
