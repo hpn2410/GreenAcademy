@@ -1,8 +1,42 @@
 {
-
-      "Full_Name": "Hong Phu Nguyen",
-      "Age": 22,
-      "Email": "test@gmail.com"
-
+  "Players": [
+    {
+      "Name": "John",
+      "Class": "Warrior",
+      "HP": 100,
+      "Damage": 100
+    },
+    {
+      "Name": "May",
+      "Class": "Mage",
+      "HP": 50,
+      "Damage": 200
+    },
+    {
+      "Name": "Pnu",
+      "Class": "Archer",
+      "HP": 75,
+      "Damage": 175
+    }
+  ],
+  "Enemies": [
+    {
+      "Name": "Tanker",
+      "Class": "Tank",
+      "HP": 1000,
+      "Damage": 20
+    },
+    {
+      "Name": "Boober",
+      "Class": "Bomb",
+      "HP": 10,
+      "Damage": 200
+    },
+    {
+      "Name": "BanDinh",
+      "Class": "Runner",
+      "HP": 5000,
+      "Damage": 0
+    }
+  ]
 }
-
